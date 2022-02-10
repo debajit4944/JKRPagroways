@@ -44,17 +44,17 @@ body {
 }
 
 .carousel-image-1 {
-  background: url("../img/sliderimage03.jpg");
-  background-size: cover;
-}
-
-.carousel-image-2 {
   background: url("../img/sliderimage01.jpg");
   background-size: cover;
 }
 
-.carousel-image-3 {
+.carousel-image-2 {
   background: url("../img/sliderimage02.jpg");
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url("../img/sliderimage03.jpg");
   background-size: cover;
 }
 
@@ -122,6 +122,9 @@ body {
 #faq .card-header {
   background: #333;
 }*/
+#authors img {
+  border: 2px solid #333;
+}
 
 #main-footer {
   background: #000;
