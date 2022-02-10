@@ -106,19 +106,22 @@ body {
   margin-top: -50px;
 }
 
+/*
 #faq .card {
   border: #444;
 }
-
-#faq a {
+*/
+#faq button {
   color: #fff;
   text-decoration: none;
+  font-size: large;
+  font-weight: 500;
 }
-
+/*
 #faq .card-body,
 #faq .card-header {
   background: #333;
-}
+}*/
 
 #main-footer {
   background: #000;
